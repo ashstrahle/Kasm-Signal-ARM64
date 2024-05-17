@@ -7,8 +7,11 @@ Containerised Signal client, streamed to your browser
 
 ![](/docs/screenshot2.png)
 
-
 This repository creates a custom Kasm Signal ARM64 Discord client image.
+
+## Acknowledgements
+
+This build uses [Dennis Ameling](https://github.com/dennisameling)'s ARM64 build of [Signal Desktop](https://github.com/dennisameling/Signal-Desktop)
 
 ## Installation
 
